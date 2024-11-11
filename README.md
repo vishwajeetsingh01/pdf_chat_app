@@ -34,6 +34,7 @@ streamlit run app.py
 
 ## Getting Started
 ### Prerequisites
+* Python
 **Python 3.11+**<br>
 **Streamlit (for frontend)**<br>
 **Dependencies (listed below)**<br>
