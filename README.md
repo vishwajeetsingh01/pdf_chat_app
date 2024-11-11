@@ -16,7 +16,7 @@ streamlit run app.py
 
 # PDF Chat App
 
-**The PDF Chat App allows users to upload PDF files and interact with the content through a chatbot interface. It leverages natural language processing (NLP) to enable users to ask questions, summarize content, or retrieve specific information from the uploaded PDFs. This app is ideal for anyone who needs to quickly extract insights or explore large PDF documents interactively.**<br>
+*The **PDF Chat App** allows users to upload PDF files and interact with the content through a chatbot interface. It leverages natural language processing (NLP) to enable users to ask questions, summarize content, or retrieve specific information from the uploaded PDFs. This app is ideal for anyone who needs to quickly extract insights or explore large PDF documents interactively.*<br>
 
 ## Features<br>
 **PDF Upload:** Users can upload a PDF file to the app.<br>
