@@ -27,7 +27,7 @@ streamlit run app.py
 ## Technologies Used<br>
 * **Frontend:** Streamlit<br>
 * **Backend:** Python<br>
-* **NLP:** OpenAI GPT-4 or similar language models for text-based interaction<br>
+* **NLP:** OpenAI GPT-4 or similar language models for text-based interaction.<br>
 * **Real-time Processing:** Instantaneous interaction with the document content.<br>
 * **PDF Processing:** PyPDF2 and other Python libraries for text extraxtion.<br>
 * **File Storage:** Local or cloud-based storage for PDFs.<br>
@@ -57,15 +57,15 @@ streamlit run app.py
 
 Now, the app should be running locally at http://localhost:8501 and the Network URL will be available at http://localhost:172.16.1.196.8501.
 
-### File Upload
+## File Upload
 To interact with the PDF, simply click on the Upload PDF button on the frontend, select a file, and the chat interface will be ready to respond based on the content of the document.
 
-### Usage
+## Usage
 **Chat with PDF:** After uploading a PDF, ask questions related to its contents (e.g., "What is the summary of this document?", "Tell me about the second chapter.").<br>
 **Extract Information:** You can ask for specific data or quotes directly (e.g., "What is the value of X in section 3?").<br>
 **Summarization:** Ask the bot to provide a concise summary of the entire document or specific sections.<br>
 
-### Contributing
+## Contributing
 Contributions are welcome! If you find any issues or would like to add new features, please open an issue or submit a pull request.
 
 1. Fork the repository
