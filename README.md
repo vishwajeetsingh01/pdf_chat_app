@@ -73,3 +73,8 @@ Contributions are welcome! If you find any issues or would like to add new featu
 3. Commit your changes (git commit -am 'Add new feature')
 4. Push to the branch (git push origin feature/your-feature)
 5. Open a pull request
+
+## Achnowledgements
+* Special thanks to OpenAI for providing powerful language models.<br>
+* Thanks to the maintainers of PyPDF2 for their contributions to PDF processing.<br>
+* Inspired by modern AI-driven tools for document analysis and interaction.
