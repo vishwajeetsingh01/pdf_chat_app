@@ -19,25 +19,24 @@ streamlit run app.py
 *The **PDF Chat App** allows users to upload PDF files and interact with the content through a chatbot interface. It leverages natural language processing (NLP) to enable users to ask questions, summarize content, or retrieve specific information from the uploaded PDFs. This app is ideal for anyone who needs to quickly extract insights or explore large PDF documents interactively.*<br>
 
 ## Features<br>
-**PDF Upload:** Users can upload a PDF file to the app.<br>
-**Interactive Chat:** Once the PDF is uploaded, users can chat with the app to extract relevant information, get summaries, or ask specific questions.<br>
-**Text Extraction:** The app reads the content of the PDF and makes it searchable.<br>
-**Contextual Responses:** The chatbot provides responses based on the content of the uploaded PDF.<br>
-**Real-time Processing:** Instantaneous interaction with the document content.<br>
-**PDF Processing:** PyPDF2 and other Python libraries for text extraxtion.<br>
-**File Storage:** Local or cloud-based storage for PDFs.<br>
+* **PDF Upload:** Users can upload a PDF file to the app.<br>
+* **Interactive Chat:** Once the PDF is uploaded, users can chat with the app to extract relevant information, get summaries, or ask specific questions.<br>
+* **Text Extraction:** The app reads the content of the PDF and makes it searchable.<br>
+* **Contextual Responses:** The chatbot provides responses based on the content of the uploaded PDF.<br>
 
 ## Technologies Used<br>
-**Frontend:** Streamlit<br>
-**Backend:** Python<br>
-**NLP:** OpenAI GPT-4 or similar language models for text-based interaction<br>
+* **Frontend:** Streamlit<br>
+* **Backend:** Python<br>
+* **NLP:** OpenAI GPT-4 or similar language models for text-based interaction<br>
+* **Real-time Processing:** Instantaneous interaction with the document content.<br>
+* **PDF Processing:** PyPDF2 and other Python libraries for text extraxtion.<br>
+* **File Storage:** Local or cloud-based storage for PDFs.<br>
 
 ## Getting Started
 ### Prerequisites
-* Python
-**Python 3.11+**<br>
-**Streamlit (for frontend)**<br>
-**Dependencies (listed below)**<br>
+* Python 3.11+<br>
+* Streamlit (for frontend)<br>
+* Dependencies (listed below)<br>
 
 ### Installation
 1. Clone the repositery:<br>
