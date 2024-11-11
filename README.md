@@ -27,7 +27,7 @@ streamlit run app.py
 **PDF Processing:** PyPDF2 and other Python libraries for text extraxtion.<br>
 **File Storage:** Local or cloud-based storage for PDFs.<br>
 
-**Technologies Used**<br>
+## Technologies Used<br>
 **Frontend:** Streamlit<br>
 **Backend:** Python<br>
 **NLP:** OpenAI GPT-4 or similar language models for text-based interaction<br>
