@@ -28,15 +28,15 @@ streamlit run app.py
 **File Storage:** Local or cloud-based storage for PDFs.<br>
 
 **Technologies Used**<br>
-**Frontend:** SStreamlit<br>
+**Frontend:** Streamlit<br>
 **Backend:** Python<br>
 **NLP:** OpenAI GPT-4 or similar language models for text-based interaction<br>
 
 ## Getting Started
 ### Prerequisites
-**Python 3.11+**
-**Streamlit (for frontend)**
-**Dependencies (listed below)**
+**Python 3.11+**<br>
+**Streamlit (for frontend)**<br>
+**Dependencies (listed below)**<br>
 
 ### Installation
 1. Clone the repositery:<br>
@@ -46,7 +46,7 @@ cd pdf-chat-app
 2. Create a virtual environment in the terminal:<br>
 python  -m venv .venv
 
-3. Start Virtual Environment:<br>
+3. Start virtual environment:<br>
 .venv\Scripts\activate
 
 4. Install dependencies:<br>
