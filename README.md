@@ -39,20 +39,20 @@ streamlit run app.py
 **Dependencies (listed below)**
 
 ### Installation
-1. Clone the repositery:
-git clone https://github.com/vishwajeetsingh01/pdf_chat_app.git
+1. Clone the repositery:<br>
+git clone https://github.com/vishwajeetsingh01/pdf_chat_app.git<br>
 cd pdf-chat-app
 
-2. Create a virtual environment in the terminal
+2. Create a virtual environment in the terminal:<br>
 python  -m venv .venv
 
-3. Start Virtual Environment
+3. Start Virtual Environment:<br>
 .venv\Scripts\activate
 
-4. Install dependencies:
+4. Install dependencies:<br>
 pip install -r requirements.txt
 
-5. Run the application
+5. Run the application:<br>
 streamlit run app.py
 
 Now, the app should be running locally at http://localhost:8501 and the Network URL will be available at http://localhost:172.16.1.196.8501.
