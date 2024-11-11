@@ -9,7 +9,7 @@ To install required libraries
 pip install -r req.txt
 
 
-to run the application
+To run the application
 streamlit run app.py
 
 -->
