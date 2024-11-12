@@ -2,7 +2,7 @@
 
 *The **PDF - Chat Bot** allows users to upload PDF files and interact with the content through a chatbot interface. It leverages natural language processing (NLP) to enable users to ask questions, summarize content, or retrieve specific information from the uploaded PDFs. This app is ideal for anyone who needs to quickly extract insights or explore large PDF documents interactively.*<br>
 
-![image](https://github.com/user-attachments/assets/963cd526-e87c-4b7e-b1f4-1dc60135a66e)
+![alt text](assets/image.png)
 
 ## Features<br>
 * **PDF Upload:** Users can upload a PDF file to the app.<br>
@@ -13,7 +13,7 @@
 ## Technologies Used<br>
 * **Frontend:** Streamlit<br>
 * **Backend:** Python<br>
-* **NLP:** OpenAI GPT-4 or similar language models for text-based interaction.<br>
+* **NLP:** Google API gemini-1.5-flash or similar language models for text-based interaction.<br>
 * **Real-time Processing:** Instantaneous interaction with the document content.<br>
 * **PDF Processing:** PyPDF2 and other Python libraries for text extraxtion.<br>
 * **File Storage:** Local or cloud-based storage for PDFs.<br>
