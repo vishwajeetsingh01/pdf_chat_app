@@ -49,7 +49,7 @@ python  -m venv .venv
 3. Activate virtual environment:<br>
 .venv\Scripts\activate
 
-*If you get error than fire the below commond:<br>
+*Note: If you get error than fire the below commond:<br>
 Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass*
 
 4. Install dependencies:<br>
