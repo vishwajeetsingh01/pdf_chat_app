@@ -44,7 +44,7 @@ def main():
         # st.image("logo.jpg")
         # st.write("---")
 
-        st.title(" PDF File's section")
+        st.title("📁 PDF File's Section")
         pdf_docs = st.file_uploader("Upload your PDF Files & \n Click on the Submit Button ", accept_multiple_files=True)
         if st.button("Submit"):
             with st.spinner("Processing..."): # user friendly message.
