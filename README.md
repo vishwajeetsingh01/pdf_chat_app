@@ -2,7 +2,7 @@
 
 *The **PDF - Chat Bot** allows users to upload PDF files and interact with the content through a chatbot interface. It leverages natural language processing (NLP) to enable users to ask questions, summarize content, or retrieve specific information from the uploaded PDFs. This app is ideal for anyone who needs to quickly extract insights or explore large PDF documents interactively.*<br>
 
-## ![alt text](image.png)Features<br>
+## Features<br>
 * **PDF Upload:** Users can upload a PDF file to the app.<br>
 * **Interactive Chat:** Once the PDF is uploaded, users can chat with the app to extract relevant information, get summaries, or ask specific questions.<br>
 * **Text Extraction:** The app reads the content of the PDF and makes it searchable.<br>
