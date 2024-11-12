@@ -64,3 +64,5 @@ Contributions are welcome! If you find any issues or would like to add new featu
 * Special thanks to OpenAI for providing powerful language models.<br>
 * Thanks to the maintainers of PyPDF2 for their contributions to PDF processing.<br>
 * Inspired by modern AI-driven tools for document analysis and interaction.
+
+  ![image](https://github.com/user-attachments/assets/963cd526-e87c-4b7e-b1f4-1dc60135a66e)
