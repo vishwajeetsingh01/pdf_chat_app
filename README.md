@@ -46,7 +46,7 @@ cd pdf-chat-app
 2. Create a virtual environment in the terminal:<br>
 python  -m venv .venv
 
-3. Start virtual environment:<br>
+3. Activate virtual environment:<br>
 .venv\Scripts\activate
 
 4. Install dependencies:<br>
