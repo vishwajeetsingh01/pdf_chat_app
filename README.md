@@ -1,24 +1,8 @@
-<!-- 
-python  -m venv .venv
-.\.venv\Scripts\activate 
+# PDF📖 - Chat Bot 🤖
 
-If you get error than fire the below commond:
-Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass
+*The **PDF - Chat Bot** allows users to upload PDF files and interact with the content through a chatbot interface. It leverages natural language processing (NLP) to enable users to ask questions, summarize content, or retrieve specific information from the uploaded PDFs. This app is ideal for anyone who needs to quickly extract insights or explore large PDF documents interactively.*<br>
 
-To install required libraries
-pip install -r requirements.txt
-
-
-To run the application
-streamlit run app.py
-
--->
-
-# PDF Chat App
-
-*The **PDF Chat App** allows users to upload PDF files and interact with the content through a chatbot interface. It leverages natural language processing (NLP) to enable users to ask questions, summarize content, or retrieve specific information from the uploaded PDFs. This app is ideal for anyone who needs to quickly extract insights or explore large PDF documents interactively.*<br>
-
-## Features<br>
+## ![alt text](image.png)Features<br>
 * **PDF Upload:** Users can upload a PDF file to the app.<br>
 * **Interactive Chat:** Once the PDF is uploaded, users can chat with the app to extract relevant information, get summaries, or ask specific questions.<br>
 * **Text Extraction:** The app reads the content of the PDF and makes it searchable.<br>

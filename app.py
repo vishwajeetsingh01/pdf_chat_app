@@ -31,10 +31,10 @@ def user_input(user_question):
 
 
 def main():
-    st.set_page_config("PDF Chat App", page_icon = ":scroll:")
-    st.header("PDF Chat App ")
+    st.set_page_config("PDF Chat Bot", page_icon = ":scroll:")
+    st.header("PDF📖 - Chat Bot 🤖")
 
-    user_question = st.text_input("Ask Question from the PDF Files uploaded .. ")
+    user_question = st.text_input("Ask Question from the PDF Files uploaded .. ✍️📖")
 
     if user_question:
         user_input(user_question)
