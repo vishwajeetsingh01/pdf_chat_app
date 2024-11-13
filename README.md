@@ -63,7 +63,7 @@ Contributions are welcome! If you find any issues or would like to add new featu
 5. Open a pull request
 
 ## Achnowledgements
-* Special thanks to OpenAI for providing powerful language models.<br>
+* Special thanks to Google for providing powerful language models.<br>
 * Thanks to the maintainers of PyPDF2 for their contributions to PDF processing.<br>
 * Inspired by modern AI-driven tools for document analysis and interaction.
 
