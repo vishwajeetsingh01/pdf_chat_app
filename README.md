@@ -33,7 +33,7 @@ cd pdf-chat-app
 python  -m venv venv
 
 3. Activate virtual environment:<br>
-.venv\Scripts\activate
+.\venv\Scripts\activate
 
 **Note:** *If you get error than fire the below commond: Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass*
 
