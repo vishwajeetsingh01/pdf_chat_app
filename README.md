@@ -27,7 +27,7 @@
 ### Installation
 1. Clone the repositery:<br>
 git clone https://github.com/vishwajeetsingh01/pdf_chat_app.git<br>
-cd pdf-chat-app
+cd pdf_chat_app
 
 2. Create a virtual environment in the terminal:<br>
 python -m venv venv
